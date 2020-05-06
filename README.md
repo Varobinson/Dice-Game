@@ -1,1 +1,1 @@
-# First-Game
+# Dice-Game
